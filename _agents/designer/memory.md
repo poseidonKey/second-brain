@@ -10,3 +10,4 @@ _Designer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-05-05] Design the brand visual definition and thumbnail concepts, then distribute the task to 1-2 agents for implementation. → 산출물 sessions/2026-05-05T06-13/designer.md
 - [2026-05-05] 브랜드 비주얼 정의 구현, 썸네일 컨셉 3안 작성 → 산출물 sessions/2026-05-05T06-28/designer.md
 - [2026-05-05] 브랜드 비주얼 정의 구현, 썸네일 컨셉 3안 작성 → 산출물 sessions/2026-05-05T06-43/designer.md
+- [2026-05-05] Posei Brand Team 마케팅 캠페인 계획 및 실행 → 산출물 sessions/2026-05-05T06-58/designer.md
