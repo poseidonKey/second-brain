@@ -18,3 +18,4 @@ _YouTube 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰
 - [2026-05-05] Execute a campaign to promote Posei's brand visual definition and thumbnail concepts → 산출물 sessions/2026-05-05T08-43/youtube.md
 - [2026-05-05] 구체적이고 실행 가능한 한국어 지시 → 산출물 sessions/2026-05-05T08-58/youtube.md
 - [2026-05-05] Write a script for the next video based on the brand visual definition and messaging. → 산출물 sessions/2026-05-05T09-13/youtube.md
+- [2026-05-05] Script for the next video based on brand visual definition and messaging: 'Unleashing the Power of [Posei's Brand Name]: Unlocking Your Potential' → 산출물 sessions/2026-05-05T09-28/youtube.md

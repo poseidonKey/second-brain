@@ -5,3 +5,4 @@ _Business 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 ## 학습 기록
 
 - [2026-05-05] 수익화, 가격, 비즈니스 전략·분석, KPI → 산출물 sessions/2026-05-05T04-08/business.md
+- [2026-05-05] Update memo on current goals and targets → 산출물 sessions/2026-05-05T09-28/business.md
