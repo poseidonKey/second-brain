@@ -10,3 +10,4 @@ _YouTube 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰
 - [2026-05-05] Posei Brand Team을 중심으로 브랜드 비주얼 정의를 기반으로 한 마케팅 캠페인 계획 및 실행 → 산출물 sessions/2026-05-05T06-28/youtube.md
 - [2026-05-05] 마케팅 캠페인 계획 및 실행 (Posei Brand Team과 협력) → 산출물 sessions/2026-05-05T06-43/youtube.md
 - [2026-05-05] Campaign execution, monitoring, and optimization → 산출물 sessions/2026-05-05T06-58/youtube.md
+- [2026-05-05] 구체적이고 실행 가능한 한국어 지시 → 산출물 sessions/2026-05-05T07-13/youtube.md
