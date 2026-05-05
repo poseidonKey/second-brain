@@ -22,3 +22,4 @@ _YouTube 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰
 - [2026-05-05] Develop a script for the next video based on the brand visual definition and messaging → 산출물 sessions/2026-05-05T09-43/youtube.md
 - [2026-05-05] Campaign execution, monitoring, and optimization → 산출물 sessions/2026-05-05T09-58/youtube.md
 - [2026-05-05] Campaign execution, monitoring, and optimization: Execute the campaign plan developed by the marketing team, monitor its performance, and optimize it for better results. → 산출물 sessions/2026-05-05T10-13/youtube.md
+- [2026-05-05] Posei 브랜드 비주얼 정의 구현 → 산출물 sessions/2026-05-05T10-28/youtube.md
