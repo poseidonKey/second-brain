@@ -15,3 +15,4 @@ _YouTube 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰
 - [2026-05-05] Campaign planning and execution based on brand visual definition → 산출물 sessions/2026-05-05T07-58/youtube.md
 - [2026-05-05] Campaign execution, monitoring, and optimization → 산출물 sessions/2026-05-05T08-13/youtube.md
 - [2026-05-05] Campaign execution, monitoring, and optimization → 산출물 sessions/2026-05-05T08-28/youtube.md
+- [2026-05-05] Execute a campaign to promote Posei's brand visual definition and thumbnail concepts → 산출물 sessions/2026-05-05T08-43/youtube.md
