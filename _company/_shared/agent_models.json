@@ -1,0 +1,11 @@
+{
+  "ceo": "gemma4:e2b",
+  "secretary": "llama3:8b",
+  "youtube": "llama3:8b",
+  "researcher": "llama3:8b",
+  "business": "llama3:8b",
+  "writer": "llama3:8b",
+  "editor": "llama3:8b",
+  "designer": "gemma4:e2b",
+  "instagram": "llama3:8b"
+}
